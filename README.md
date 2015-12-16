@@ -11,5 +11,9 @@ Past meetups
    * Sharat Chikkerur, A quick walk through of vowpal wabbit features
    * Brian Scannell, Optimization engineer, Nanigans: Using vowpal wabbit with python notebook
    * Scott Graham, Optimization engineer, Nanigans: Integrating vowpal wabbit in scikit-learn 
+ - December 16, 2015 [http://www.meetup.com/Boston-Vowpal-Wabbit-Meetup/events/227321222/]
+   * Scott Graham, Nanigans: Using scikit-learn interface to do hyper parameter optimization
+   * Atul Joshi, Nanigans: Modeling feature interactions using low-rank-quadratic (--lrq) feature
+   * Sharat Chikkerur, Nanigans: Overview of update rules
 
 
