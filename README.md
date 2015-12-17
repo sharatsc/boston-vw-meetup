@@ -1,6 +1,6 @@
 # Boston Vowpal Wabbit Meetup
 
-The meetup page can be found here: [http://www.meetup.com/Boston-Vowpal-Wabbit-Meetup/]
+The meetup page can be found here: [http://www.meetup.com/Boston-Vowpal-Wabbit-Meetup/] 
 
 Past meetups
  - July 20, 2015 [http://www.meetup.com/Boston-Vowpal-Wabbit-Meetup/events/223871709/]
