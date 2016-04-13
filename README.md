@@ -15,5 +15,9 @@ Past meetups
    * Scott Graham, Nanigans: Using scikit-learn interface to do hyper parameter optimization
    * Atul Joshi, Nanigans: Modeling feature interactions using low-rank-quadratic (--lrq) feature
    * Sharat Chikkerur, Nanigans: Overview of update rules
+ - April 14, 2016 [http://www.meetup.com/Boston-Vowpal-Wabbit-Meetup/events/229634400/]
+   * Sharat Chikkerur, Nanigans: Overview of LDA for text analysis
+   * Rani Nelken, Outbrain: A case study of using VW for online LDA
+   * Atul Joshi, Nanigans: Simple game playing using reinforcement learning and VW
 
 
