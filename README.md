@@ -19,5 +19,9 @@ Past meetups
    * Sharat Chikkerur, Nanigans: Overview of LDA for text analysis
    * Rani Nelken, Outbrain: A case study of using VW for online LDA
    * Atul Joshi, Nanigans: Simple game playing using reinforcement learning and VW
+ - July 28, 2016 [http://www.meetup.com/Boston-Vowpal-Wabbit-Meetup/events/232777915/]
+   * Sharat Chikkerur, Nanigans: Poisson regression, theory and demo
+   * Gideon Wulfhson, Nanigans: Parameter optimization using hyperopt -- demo
+   * Atul Joshi, Nanians: Reinforcement learning using VW
 
 
